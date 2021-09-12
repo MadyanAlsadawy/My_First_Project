@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\bin\Debug\school system.exe.config
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\bin\Debug\school system.exe
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\bin\Debug\school system.pdb
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\obj\Debug\school system.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\obj\Debug\school_system.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\obj\Debug\school_system.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\obj\Debug\school system.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\obj\Debug\school system.exe
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\obj\Debug\school system.pdb
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\bin\Debug\schoollib.dll
+c:\users\user\documents\visual studio 2015\Projects\School_System\school system\bin\Debug\schoollib.pdb
+C:\Users\DELL\Desktop\School_System\School_System\school system\bin\Debug\school system.exe.config
+C:\Users\DELL\Desktop\School_System\School_System\school system\obj\Debug\school system.exe
+C:\Users\DELL\Desktop\School_System\School_System\school system\obj\Debug\school system.pdb
+C:\Users\DELL\Desktop\School_System\School_System\school system\bin\Debug\school system.exe
+C:\Users\DELL\Desktop\School_System\School_System\school system\bin\Debug\school system.pdb
+C:\Users\DELL\Desktop\School_System\School_System\school system\bin\Debug\schoollib.dll
+C:\Users\DELL\Desktop\School_System\School_System\school system\bin\Debug\schoollib.pdb
+C:\Users\DELL\Desktop\School_System\School_System\school system\obj\Debug\school system.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\School_System\School_System\school system\obj\Debug\school_system.Form1.resources
+C:\Users\DELL\Desktop\School_System\School_System\school system\obj\Debug\school_system.Properties.Resources.resources
+C:\Users\DELL\Desktop\School_System\School_System\school system\obj\Debug\school system.csproj.GenerateResource.Cache
